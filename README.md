@@ -1,2 +1,7 @@
-# demo-estudio-juridico-kgb
-Demo web para Estudio Jurídico KGB — diseñada por eterlab.
+# Estudio Jurídico KGB
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
